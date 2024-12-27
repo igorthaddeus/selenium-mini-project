@@ -1,8 +1,8 @@
-package org.example.tests;
+package tests;
 
 import org.example.LoginPage;
 import org.example.SortProducts;
-import org.example.testComponent.BaseTest;
+import testComponent.BaseTest;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 

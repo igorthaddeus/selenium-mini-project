@@ -1,11 +1,11 @@
-package org.example.tests;
+package tests;
 
 import org.example.CheckoutProduct;
 import org.example.LoginPage;
-import org.example.testComponent.BaseTest;
 import org.openqa.selenium.By;
 import org.testng.Assert;
 import org.testng.annotations.Test;
+import testComponent.BaseTest;
 
 public class CheckoutTest extends BaseTest {
     @Test
